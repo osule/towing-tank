@@ -10,7 +10,7 @@ git clone git@github.com:osule/towing-tank.git
 
 ## Web browsers supported ##
 The latest version for the following web browsers are supported.
-- chromium
+- chrome
 - firefox
 
 ### Configuring browsers ###
