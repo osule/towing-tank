@@ -1,4 +1,4 @@
-# Towing tank #
+# Wo #
 
 A docker configuration for exposing selenium web driver to run tests in browsers.
 
