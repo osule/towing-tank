@@ -1,0 +1,8 @@
+version: '0.1'
+
+selenium:
+  jar: https://goo.gl/rW9Yvk
+browsers:
+  chrome:
+    driver:
+      'http://chromedriver.storage.googleapis.com/2.14/chromedriver_linux64.zip'
